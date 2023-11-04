@@ -1,3 +1,9 @@
+"""
+Name: Joseph Muema
+Reg Number: SCT211-0039/2022
+Course: Bsc Computer Science
+"""
+
 while True :
     year = int(input("\nEnter the year to check: "))
     leap = False

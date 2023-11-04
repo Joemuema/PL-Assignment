@@ -1,3 +1,9 @@
+"""
+Name: Joseph Muema
+Reg Number: SCT211-0039/2022
+Course: Bsc Computer Science
+"""
+
 while True:
     weight = float(input("\nEnter your current body weight(kg): "))
     height = float(input("Enter your current height(m): "))

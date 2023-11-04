@@ -1,3 +1,9 @@
+"""
+Name: Joseph Muema
+Reg Number: SCT211-0039/2022
+Course: Bsc Computer Science
+"""
+
 while True:
     totalBill = float(input("Enter the bill information below\nTotal Bill: "))
     tipPercentage = int(input("Tip percentage:(10%,12%,15%) "))
