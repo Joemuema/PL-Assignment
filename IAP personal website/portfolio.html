@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+    <title>Your Name - Portfolio</title>
+</head>
+
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#" onclick="loadSection('home.html')">Home</a></li>
+            <li><a href="#" onclick="loadSection('about.html')">About</a></li>
+            <li><a href="#" onclick="loadSection('projects.html')">Projects</a></li>
+            <li><a href="#" onclick="loadSection('contact.html')">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <div id="content-container"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            loadSection('home.html');
+        });
+    </script>
+
+</body>
+</html>
