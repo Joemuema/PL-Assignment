@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Account Overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Budgeting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BudgetSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Debt_Repayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpenseTrackingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Financial goals.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GoalChecking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IncomeTrackingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoansDebtsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Record_Debt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RepayLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TakeLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Set Goal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateGoalForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

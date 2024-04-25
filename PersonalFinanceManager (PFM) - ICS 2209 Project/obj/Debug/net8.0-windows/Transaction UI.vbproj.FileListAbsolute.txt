@@ -1,0 +1,261 @@
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Transaction UI.exe
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Transaction UI.deps.json
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Transaction UI.runtimeconfig.json
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Transaction UI.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Transaction UI.pdb
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Resources.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.vbproj.GenerateResource.cache
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfoInputs.cache
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfo.vb
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.vbproj.CoreCompileInputs.cache
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\refint\Transaction UI.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.pdb
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.genruntimeconfig.cache
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\ref\Transaction UI.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Form2.resources
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction UI.vbproj.AssemblyReference.cache
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transact.CF70F39A.Up2Date
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Financial_goals.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Form3.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Transaction.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.GoalChecking.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.updateGoalForm.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Debt_Repayment.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Loans.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.LoansDebtsReport.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Record_Debt.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.RepayLoan.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.TakeLoan.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Budgeting.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.BudgetSummary.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.ExpenseTrackingForm.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.IncomeTrackingForm.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.Account.resources
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\School Work\source\repos\Transaction UI\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.LoginForm.resources
+C:\Users\School Work\source\repos\Transaction UI\obj\Debug\net8.0-windows\Transaction_UI.RegistrationForm.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Transaction UI.exe
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Transaction UI.deps.json
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Transaction UI.runtimeconfig.json
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Transaction UI.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Transaction UI.pdb
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\System.Management.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.vbproj.AssemblyReference.cache
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Account.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Form2.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Budgeting.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.BudgetSummary.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Debt_Repayment.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.ExpenseTrackingForm.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Financial_goals.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.GoalChecking.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.IncomeTrackingForm.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Loans.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.LoansDebtsReport.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.LoginForm.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Resources.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Record_Debt.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Form1.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.RepayLoan.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Form3.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.TakeLoan.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.Transaction.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction_UI.updateGoalForm.resources
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.vbproj.GenerateResource.cache
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfoInputs.cache
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfo.vb
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.vbproj.CoreCompileInputs.cache
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.vbproj.CopyComplete
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\refint\Transaction UI.dll
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.pdb
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\Transaction UI.genruntimeconfig.cache
+D:\Jose\Documents\2.2\Transaction UI(without Terry2)\Transaction UI(without Terry)\obj\Debug\net8.0-windows\ref\Transaction UI.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Transaction UI.exe
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Transaction UI.deps.json
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Transaction UI.runtimeconfig.json
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Transaction UI.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Transaction UI.pdb
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\System.Management.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.vbproj.AssemblyReference.cache
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Account.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Form2.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Budgeting.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.BudgetSummary.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Debt_Repayment.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.ExpenseTrackingForm.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Financial_goals.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.GoalChecking.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.IncomeTrackingForm.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Loans.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.LoansDebtsReport.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.LoginForm.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Resources.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Record_Debt.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Form1.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.RepayLoan.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Form3.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.TakeLoan.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.Transaction.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction_UI.updateGoalForm.resources
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.vbproj.GenerateResource.cache
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfoInputs.cache
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.AssemblyInfo.vb
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.vbproj.CoreCompileInputs.cache
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.vbproj.CopyComplete
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\refint\Transaction UI.dll
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.pdb
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\Transaction UI.genruntimeconfig.cache
+D:\Jose\Documents\2.2\PersonalFinanceManager (PFM)\obj\Debug\net8.0-windows\ref\Transaction UI.dll

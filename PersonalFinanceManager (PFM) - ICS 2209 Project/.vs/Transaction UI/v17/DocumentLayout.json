@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\add transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:add transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\updategoalform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:updategoalform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\budgeting.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:budgeting.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\goalchecking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:goalchecking.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\loans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:loans.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\financial goals.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:financial goals.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\budgeting.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:budgeting.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|c:\\users\\school work\\source\\repos\\transaction ui\\account overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{85D009C1-C46A-42FB-9B7A-65F9A5551F49}|Transaction UI.vbproj|solutionrelative:account overview.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add Transaction.vb",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Add Transaction.vb",
+              "RelativeDocumentMoniker": "Add Transaction.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Add Transaction.vb",
+              "RelativeToolTip": "Add Transaction.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T15:00:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.vb",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Transaction.vb",
+              "RelativeDocumentMoniker": "Transaction.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Transaction.vb",
+              "RelativeToolTip": "Transaction.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T15:00:43.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Budgeting.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Budgeting.Designer.vb",
+              "RelativeDocumentMoniker": "Budgeting.Designer.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Budgeting.Designer.vb",
+              "RelativeToolTip": "Budgeting.Designer.vb",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T15:00:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoalChecking.vb",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\GoalChecking.vb",
+              "RelativeDocumentMoniker": "GoalChecking.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\GoalChecking.vb",
+              "RelativeToolTip": "GoalChecking.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:57:11.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "updateGoalForm.vb",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\updateGoalForm.vb",
+              "RelativeDocumentMoniker": "updateGoalForm.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\updateGoalForm.vb",
+              "RelativeToolTip": "updateGoalForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:50.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Transaction.vb",
+              "RelativeDocumentMoniker": "Transaction.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Transaction.vb [Design]",
+              "RelativeToolTip": "Transaction.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:30.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loans.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Loans.vb",
+              "RelativeDocumentMoniker": "Loans.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Loans.vb [Design]",
+              "RelativeToolTip": "Loans.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:21.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Financial goals.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Financial goals.vb",
+              "RelativeDocumentMoniker": "Financial goals.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Financial goals.vb [Design]",
+              "RelativeToolTip": "Financial goals.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:17.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Budgeting.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Budgeting.vb",
+              "RelativeDocumentMoniker": "Budgeting.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Budgeting.vb [Design]",
+              "RelativeToolTip": "Budgeting.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:13.489Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account Overview.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Account Overview.vb",
+              "RelativeDocumentMoniker": "Account Overview.vb",
+              "ToolTip": "C:\\Users\\School Work\\source\\repos\\Transaction UI\\Account Overview.vb [Design]",
+              "RelativeToolTip": "Account Overview.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T14:56:08.59Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
